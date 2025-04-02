@@ -1,0 +1,55 @@
+
+@media (prefers-color-scheme: dark) {
+
+  :root {
+      --sidebar-text-color: #000000 !important;
+      --lwt-text-color: #000000 !important;
+      --lwt-accent-color: rgb(240,240,240) !important;
+      --toolbar-field-focus-color: #313131 !important;
+      --toolbar-field-color: #313131 !important;
+      --toolbar-field-border-color: rgba(0,0,0,0) !important;
+      --toolbar-bgcolor: #E6C7CE !important;
+      --toolbar-color: #000000 !important;
+      --toolbarbutton-icon-fill: #000000 !important;
+      --lwt-sidebar-text-color: #000000 !important;
+      --arrowpanel-color: #000000 !important;
+      --arrowpanel-border-color: rgb(240,240,244) !important;
+      --tab-selected-textcolor: rgb(0, 0, 0) !important;
+      --newtab-text-primary-color: #000000 !important;
+      --newtab-background-color: #E6C7CE !important;
+      --urlbarbutton-icon-fill: #000000 !important;
+      --urlbar-text-color: black !important;
+      --input-color: black !important;
+      --urlbar-icon-fill-opacity: 1;
+  }
+  .urlbarView-url {
+    color: #000000 !important;
+}
+#permissions-granted-icon{
+  color: #000000 !important;
+}
+#urlbar-background {
+  background-color: #D5BCC4 !important;
+}
+#urlbar-zoom-button {
+  background-color: #b9a5ab !important;
+}
+.urlbarView-row {
+  color:black !important;
+}
+ 
+#widget-overflow-mainView {
+  background-color: #E6C7CE !important;  
+}
+  #unified-extensions-view {
+    background-color: #E6C7CE !important; 
+  }
+  poppupnotification {
+  background-color:#E6C7CE;
+    
+  }
+  #geolocation-notification {
+    background-color:#E6C7CE;
+  }
+
+}
